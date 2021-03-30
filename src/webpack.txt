@@ -1,0 +1,5 @@
+1 - Принцип работы Webpack
+2 - Работа babel
+3 - JavaScript через babel
+4 - typescript
+5 - итд....
